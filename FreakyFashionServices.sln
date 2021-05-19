@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreakyFashionServices.Catalog", "FreakyFashionServices.Catalog\FreakyFashionServices.Catalog.csproj", "{26FFF0C9-4D48-438A-A965-C46D7523ACA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreakyFashionServices.Basket", "FreakyFashionServices.Basket\FreakyFashionServices.Basket.csproj", "{1ECCC009-5403-4000-853E-4D3236D4C0A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreakyFashionServices.ProductPrice", "FreakyFashionServices.ProductPrice\FreakyFashionServices.ProductPrice.csproj", "{145C4124-326F-4B9C-9679-A77408818DD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreakyFashionServices.Gateway", "FreakyFashionServices.Gateway\FreakyFashionServices.Gateway.csproj", "{D937D916-242A-4E11-86AD-5EA0DDCBD294}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreakyFashionServices.Order", "..\..\..\Downloads\FreakyFashionServices1\FreakyFashionServices\FreakyFashionServices.Order\FreakyFashionServices.Order.csproj", "{846F94A1-4AE8-4562-B7A2-92C85D882A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26FFF0C9-4D48-438A-A965-C46D7523ACA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FFF0C9-4D48-438A-A965-C46D7523ACA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FFF0C9-4D48-438A-A965-C46D7523ACA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FFF0C9-4D48-438A-A965-C46D7523ACA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECCC009-5403-4000-853E-4D3236D4C0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECCC009-5403-4000-853E-4D3236D4C0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECCC009-5403-4000-853E-4D3236D4C0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECCC009-5403-4000-853E-4D3236D4C0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145C4124-326F-4B9C-9679-A77408818DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145C4124-326F-4B9C-9679-A77408818DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145C4124-326F-4B9C-9679-A77408818DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145C4124-326F-4B9C-9679-A77408818DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D937D916-242A-4E11-86AD-5EA0DDCBD294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D937D916-242A-4E11-86AD-5EA0DDCBD294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D937D916-242A-4E11-86AD-5EA0DDCBD294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D937D916-242A-4E11-86AD-5EA0DDCBD294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{846F94A1-4AE8-4562-B7A2-92C85D882A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846F94A1-4AE8-4562-B7A2-92C85D882A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846F94A1-4AE8-4562-B7A2-92C85D882A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846F94A1-4AE8-4562-B7A2-92C85D882A79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BB12D2D-4CDF-41E4-86DF-A57E91D40EB7}
+	EndGlobalSection
+EndGlobal
